@@ -1,2 +1,2 @@
 # CQS-VS-CQRS
-this project Implementation CQS pattern and CQRS pattern 
+this project implement CQS pattern and CQRS pattern 
